@@ -285,7 +285,7 @@ code {
 }
 .main-body {
   margin-top: -60px;
-  background-color: #fff;
+  background-color: #996a8e;
 }
 .main-body-inner {
   position: relative;
@@ -344,7 +344,7 @@ code {
   clear: both;
 }
 #header {
-  background: #26272b;
+  background: #c0e1de;
   padding-bottom: 60px;
   position: relative;
 }
